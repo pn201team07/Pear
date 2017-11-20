@@ -1,2 +1,2 @@
 # Pear
-The Wack up on Wan or Lan
+The Wake up on Wan or Lan
